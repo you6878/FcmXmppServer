@@ -1,0 +1,16 @@
+{
+  "name": "node_fcm_xmpp_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fcm-node": "^1.2.1",
+    "simple-xmpp": "^1.3.0"
+  }
+}
